@@ -1,4 +1,4 @@
-# Go Sample Pipelines in Harness IO
+# Go Sample Pipelines in Harness
 
 Introduction
 ========================

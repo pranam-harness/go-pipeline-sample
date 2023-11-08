@@ -1,0 +1,12 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Supply_Chain_Projects
+  title: Supply Chain Projects
+  description: ""
+  tags:
+    - supply-chain
+spec:
+  owner: Unknown
+  domain: anaplan
+

@@ -1,0 +1,12 @@
+kind: Domain
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: anaplan
+  title: Anaplan
+  description: Work related to Anaplan
+  tags:
+    - workshop
+    - pranam
+spec:
+  owner: Unknown
+

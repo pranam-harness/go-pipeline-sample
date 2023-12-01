@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_pranam_harness_go_pipeline_sample_1701407896244-pr-trigger-input-set
+  identifier: Build_pranam_harness_go_pipeline_sample_1701407896244prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: anmolpsandbox
+  pipeline:
+    identifier: Build_pranam_harness_go_pipeline_sample_1701407896244
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>

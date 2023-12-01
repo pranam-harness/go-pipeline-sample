@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_pranam_harness_go_pipeline_sample_1701407896244-push-trigger-input-set
+  identifier: Build_pranam_harness_go_pipeline_sample_1701407896244pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: anmolpsandbox
+  pipeline:
+    identifier: Build_pranam_harness_go_pipeline_sample_1701407896244
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
